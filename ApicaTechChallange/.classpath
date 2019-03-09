@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Lib/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Lib/fillo-1.15.jar"/>
+	<classpathentry kind="lib" path="Lib/Fillo-1.6.jar"/>
+	<classpathentry kind="lib" path="Lib/fluent-hc-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Lib/httpclient-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Lib/httpclient-cache-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Lib/httpclient-osgi-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Lib/httpclient-win-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Lib/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="Lib/httpmime-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Lib/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="Lib/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="Lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="Lib/opencsv-2.2.jar"/>
+	<classpathentry kind="lib" path="Lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
